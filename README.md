@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.7tv.app/emote/636f1f13cd0b9515ad700087/4x.gif" width="160"/>
+  <img src="https://cdn.7tv.app/emote/636f1f13cd0b9515ad700087/4x.gif" width="350"/>
 </p>
 
 <h1 align="center">Daniel Reshetnikov</h1>
