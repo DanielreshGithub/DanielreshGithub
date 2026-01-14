@@ -1,16 +1,20 @@
 ## Hi there 👋
+Daniel Reshetnikov  
+Data, geopolitics & defense-tech
 
-<!--
-**DanielreshGithub/DanielreshGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build analytical systems that expose how power, money, and technology shape societies.
 
-Here are some ideas to get you started:
+🚀 Flagship Projects
+[Canada–US Defense Dashboard]
+[US Vaccination, Income & Religion Dashboard]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 What I work on
+• Geospatial analytics  
+• Public policy data  
+• National security systems  
+• Political economy  
+• Interactive dashboards  
+
+🛰️ What I'm building next
+Defense-tech analytics, sovereign infrastructure tools, compute systems
+
