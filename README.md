@@ -1,64 +1,47 @@
-## Hi There 
+## Hi There 👋
 
-Daniel Reshetnikov
+# Daniel Reshetnikov  
+**Geopolitics · Data · Defence-Tech · Systems**
 
-Geopolitics · Data · Defence-Tech · Systems
+I build **interactive analytical platforms** that reveal how power, society, and institutions shape real-world outcomes — from military supply chains to public health.
 
-I build analytical platforms that expose how power, money, technology, and institutions shape societies — from military supply chains to public-health outcomes.
+🔗 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/daniel-reshetnikov/)
 
-My work focuses on:
-	•	Geospatial & political data
-	•	National security & defence economics
-	•	Public-health and social systems
-	•	Interactive analytical dashboards
+---
 
-⸻
+## 🚀 Featured Projects
 
-🚀 Flagship Projects
+### 🇨🇦 Canada–US Defence Procurement Dashboard  
+Analyzes how deeply Canada depends on U.S. defence contractors using Foreign Military Sales data (2016–2025), revealing concentration and sovereignty risk.
 
-🇨🇦 Canada–US Defence Procurement Dashboard
+🔗 **Repository:** https://github.com/DanielreshGithub/canada-us-defense-dashboard
 
-How dependent is Canada’s military on U.S. defence firms?
+---
 
-An interactive analytics platform that maps Canada’s military reliance on the U.S. defence-industrial base using Foreign Military Sales data (2016–2025).
-It reveals contractor concentration, platform-level dependency, and sovereignty risk.
+### 🇺🇸 US Vaccination, Income & Religion Dashboard  
+Combines vaccination rates, income, religious attendance, and political data across U.S. states to uncover social and economic drivers of public-health outcomes.
 
-🔗 GitHub:
-https://github.com/DanielreshGithub/canada-us-defense-dashboard
+🔗 **Repository:** https://github.com/DanielreshGithub/us-vaccination-income-religion-dashboard
 
-⸻
+---
 
-🇺🇸 US Vaccination, Income & Religion Dashboard
+## 🧠 What I Work On
 
-How do culture, money, and politics shape public-health outcomes?
+- Geospatial analytics & political mapping  
+- Defence procurement and supply-chain analysis  
+- Public health and social systems  
+- Interactive data visualization (R, Shiny, Leaflet, Plotly)
 
-A geospatial dashboard combining vaccination rates, religious attendance, income, and political leadership across U.S. states to expose the social drivers behind COVID-19 vaccine uptake.
+---
 
-🔗 GitHub:
-https://github.com/DanielreshGithub/us-vaccination-income-religion-dashboard
+## ⚙️ Skills & Tools
 
-⸻
+R, Shiny, SQL, sf/geospatial, data visualization, policy-oriented analysis, dashboard engineering
 
-🧠 What I Work On
-	•	Geospatial data & political mapping
-	•	Defence procurement & supply-chain analysis
-	•	Public-health & social systems
-	•	Interactive dashboards (R Shiny, Leaflet, Plotly)
-	•	Policy-relevant data pipelines
+---
 
-⸻
+## 📈 Let’s Connect
 
-🛰️ What I’m Building Toward
-
-I’m working toward building and contributing to defence-tech, sovereign infrastructure, and analytical platforms that help governments and institutions understand:
-	•	Strategic dependency
-	•	Industrial concentration
-	•	Technology and power
-
-⸻
-
-🔗 Find Me
-
-LinkedIn:
-👉 https://www.linkedin.com/in/daniel-reshetnikov/
-
+Find me on LinkedIn and check out my work — I’m always open to collaborations, discussions, and projects that push the limits of data and impact.
+I look forward on collaborating with people on new projects and ideas!
