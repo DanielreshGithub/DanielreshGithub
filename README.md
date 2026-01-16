@@ -88,6 +88,3 @@ I’m building toward work in **defence-tech, sovereign infrastructure, and poli
 
 ---
 
-<p align="center">
-  <sub>Built like an analyst. Shipped like a builder.</sub>
-</p>
