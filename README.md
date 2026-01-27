@@ -84,7 +84,8 @@ I’m building toward work in **defence-tech, sovereign infrastructure, and poli
 
 - **LinkedIn:** https://www.linkedin.com/in/daniel-reshetnikov/  
 - **Defence Dashboard:** https://github.com/DanielreshGithub/canada-us-defense-dashboard  
-- **Vaccination Dashboard:** https://github.com/DanielreshGithub/us-vaccination-income-religion-dashboard  
+- **Vaccination Dashboard:** https://github.com/DanielreshGithub/us-vaccination-income-religion-dashboard
+- **Civilian Harm Prediction Model** https://github.com/DanielreshGithub/Project-Blue-Lance
 
 ---
 
