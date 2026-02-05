@@ -8,6 +8,7 @@
   <b>Geopolitics · Data · Systems · Defence-Tech</b><br/>
   I build interactive analytical platforms that reveal how <b>power, institutions, and technology</b> shape real-world outcomes.
   I look forward to grasping more skills and becoming more proficent in my skills.
+  Looking for people to cooperate with on new projects
 </p>
 
 <p align="center">
