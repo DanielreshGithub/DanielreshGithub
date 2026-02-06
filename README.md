@@ -73,6 +73,7 @@
 - **Defence economics & dependency analysis** (supply chains, concentration, strategic risk)
 - **Public-health systems** (culture, economics, leadership → outcomes)
 - **Interactive dashboards** (R Shiny, Leaflet, Plotly; clean and usable)
+- **Data Oriented Dashboards**
 
 ---
 
