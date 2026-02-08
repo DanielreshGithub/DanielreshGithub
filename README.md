@@ -37,7 +37,7 @@
         Tracks <b>spending concentration</b>, <b>platform dependency</b>, and <b>sovereignty risk</b>.
       </p>
       <p>
-        <a href="https://github.com/DanielreshGithub/canada-us-defense-dashboard">
+        <a href="https://github.com/DanielreshGithub/canada-us-defense-dashboard"> 
           <img src="https://img.shields.io/badge/View%20Repo-111111?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -74,6 +74,7 @@
 - **Public-health systems** (culture, economics, leadership → outcomes)
 - **Interactive dashboards** (R Shiny, Leaflet, Plotly; clean and usable)
 - **Data Oriented Dashboards**
+- **SQL and Database Knowledge** (SQLite)
 
 ---
 
