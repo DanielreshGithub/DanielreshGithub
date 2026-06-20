@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" width="240" height="56" role="img" aria-label="PORTFOLIO">
+<defs>
+<filter id="g" x="-30%" y="-60%" width="160%" height="220%">
+<feGaussianBlur stdDeviation="1.6" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="2" y="2" width="236" height="52" rx="12" fill="#0a0e16" stroke="#00e5ff" stroke-width="1.6" filter="url(#g)">
+<animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<text x="120.0" y="34.0" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" letter-spacing="5" fill="#00e5ff">PORTFOLIO</text>
+</svg>
